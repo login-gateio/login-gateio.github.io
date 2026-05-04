@@ -1,0 +1,21 @@
+{
+  "name": "Gate.io | Mundial",
+  "short_name": "Gate.io",
+  "description": "Gate.io Mundial \u2014 Trade crypto with confidence and security",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f1e",
+  "theme_color": "#00d4ff",
+  "icons": [
+    {
+      "src": "favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
